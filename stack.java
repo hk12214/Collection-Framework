@@ -16,6 +16,7 @@ public class stack {
         }
     }
 }
-/* SoEEC SoMMCE SoCEA SoANC */
+/* output
+SoEEC SoMMCE SoCEA SoANC */
     
 

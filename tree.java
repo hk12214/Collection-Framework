@@ -14,7 +14,8 @@ while(itr.hasNext()){
     System.out.println(itr.next());
  
 }}}
-/*1
+/*output
+1
 2
 3
 4

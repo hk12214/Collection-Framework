@@ -11,10 +11,11 @@ public class hashset {
         set.add("Five");
         Iterator<String> i = set.iterator();
         while (i.hasNext()) {
-            System.out.print(i.next()+" ");
+            System.out.print(i.next() + " ");
         }
     }
 }
-           //check output
+         
+// output
     /* Five One Four Two Three */
 
