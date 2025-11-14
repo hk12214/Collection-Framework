@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class vectorleg {  
+public class LegVector {  
 public static void main(String  ar[]) 
 { Vector<String> vec= new Vector<String>(); 
 vec.addElement("B"); vec.addElement("A"); 
